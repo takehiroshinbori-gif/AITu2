@@ -1,0 +1,39 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n    \"character_info\": {\n        \"gender\": \"女性\",\n        \"age_group\": \"若年\",\n        \"hair_color\": [\n            255,\n            204,\n            221\n        ],\n        \"eye_color\": [\n            76,\n            147,\n            255\n        ],\n        \"skin_color\": [\n            255,\n            235,\n            230\n        ],\n        \"clothes_colors\": [\n            [\n                48,\n                54,\n                77\n            ],\n            [\n                255,\n                255,\n                255\n            ]\n        ]\n    },\n    \"face_parts\": {\n        \"left_eye\": {\n            \"x\": 282,\n            \"y\": 168,\n            \"width\": 50,\n            \"height\": 30\n        },\n        \"right_eye\": {\n            \"x\": 377,\n            \"y\": 167,\n            \"width\": 50,\n            \"height\": 30\n        },\n        \"nose\": {\n            \"x\": 328,\n            \"y\": 224,\n            \"width\": 30,\n            \"height\": 20\n        },\n        \"mouth\": {\n            \"x\": 305,\n            \"y\": 250,\n            \"width\": 120,\n            \"height\": 30\n        },\n        \"left_eyebrow\": {\n            \"x\": 279,\n            \"y\": 144,\n            \"width\": 50,\n            \"height\": 15\n        },\n        \"right_eyebrow\": {\n            \"x\": 374,\n            \"y\": 142,\n            \"width\": 50,\n            \"height\": 15\n        },\n        \"left_cheek\": {\n            \"x\": 253,\n            \"y\": 215,\n            \"width\": 70,\n            \"height\": 50\n        },\n        \"right_cheek\": {\n            \"x\": 394,\n            \"y\": 215,\n            \"width\": 70,\n            \"height\": 50\n        },\n        \"left_ear\": {\n            \"x\": 206,\n            \"y\": 185,\n            \"width\": 30,\n            \"height\": 40\n        },\n        \"right_ear\": {\n            \"x\": 464,\n            \"y\": 180,\n            \"width\": 30,\n            \"height\": 40\n        },\n        \"forehead\": {\n            \"x\": 235,\n            \"y\": 75,\n            \"width\": 240,\n            \"height\": 80\n        },\n        \"neck\": {\n            \"x\": 285,\n            \"y\": 285,\n            \"width\": 150,\n            \"height\": 40\n        }\n    },\n    \"body_parts\": {\n        \"left_shoulder\": {\n            \"x\": 190,\n            \"y\": 325,\n            \"width\": 50,\n            \"height\": 40\n        },\n        \"right_shoulder\": {\n            \"x\": 460,\n            \"y\": 325,\n            \"width\": 50,\n            \"height\": 40\n        },\n        \"left_arm\": {\n            \"x\": 160,\n            \"y\": 365,\n            \"width\": 80,\n            \"height\": 150\n        },\n        \"right_arm\": {\n            \"x\": 470,\n            \"y\": 365,\n            \"width\": 80,\n            \"height\": 150\n        },\n        \"left_hand\": {\n            \"x\": 155,\n            \"y\": 510,\n            \"width\": 30,\n            \"height\": 25\n        },\n        \"right_hand\": {\n            \"x\": 525,\n            \"y\": 510,\n            \"width\": 30,\n            \"height\": 25\n        },\n        \"chest\": {\n            \"x\": 255,\n            \"y\": 330,\n            \"width\": 220,\n            \"height\": 80\n        },\n        \"waist\": {\n            \"x\": 280,\n            \"y\": 430,\n            \"width\": 180,\n            \"height\": 50\n        },\n        \"left_leg\": {\n            \"x\": 230,\n            \"y\": 535,\n            \"width\": 80,\n            \"height\": 300\n        },\n        \"right_leg\": {\n            \"x\": 400,\n            \"y\": 535,\n            \"width\": 80,\n            \"height\": 300\n        },\n        \"left_foot\": {\n            \"x\": 230,\n            \"y\": 835,\n            \"width\": 70,\n            \"height\": 50\n        },\n        \"right_foot\": {\n            \"x\": 400,\n            \"y\": 835,\n            \"width\": 70,\n            \"height\": 50\n        }\n    },\n    \"hair_info\": {\n        \"style\": \"ボブ\",\n        \"length\": \"短い\",\n        \"color\": [\n            255,\n            204,\n            221\n        ],\n        \"texture\": \"ふわふわ\"\n    }\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11778124004391068
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 2917,
+    "candidatesTokenCount": 1410,
+    "totalTokenCount": 4327,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1111
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1806
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1410
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash-exp",
+  "responseId": "r4a1aI6JBazUz7IPzYOamAk"
+}

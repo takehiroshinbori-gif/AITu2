@@ -1,0 +1,2077 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamPositionX",
+      "GroupId": "ParamGroup1",
+      "Name": "PositionX"
+    },
+    {
+      "Id": "ParamPositionY",
+      "GroupId": "ParamGroup1",
+      "Name": "PositionY"
+    },
+    {
+      "Id": "ParamPositionZ",
+      "GroupId": "ParamGroup1",
+      "Name": "PositionZ"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "ParamGroup1",
+      "Name": "AngleX"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "ParamGroup1",
+      "Name": "AngleY"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "ParamGroup1",
+      "Name": "AngleZ"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "ParamGroup1",
+      "Name": "BodyAngleX"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "ParamGroup1",
+      "Name": "BodyAngleY"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "ParamGroup1",
+      "Name": "BodyAngleZ"
+    },
+    {
+      "Id": "ParamMouthOpen",
+      "GroupId": "ParamGroup1",
+      "Name": "MouthOpen"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "ParamGroup2",
+      "Name": "MouthForm"
+    },
+    {
+      "Id": "ParamMouthX",
+      "GroupId": "ParamGroup2",
+      "Name": "MouthX"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "ParamGroup2",
+      "Name": "EyeLOpen"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "ParamGroup2",
+      "Name": "EyeROpen"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "ParamGroup2",
+      "Name": "EyeBallX"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "ParamGroup2",
+      "Name": "EyeBallY"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "ParamGroup2",
+      "Name": "EyeLSmile"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "ParamGroup2",
+      "Name": "EyeRSmile"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "ParamGroup2",
+      "Name": "BrowLY"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "ParamGroup2",
+      "Name": "BrowRY"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "ParamGroup3",
+      "Name": "BrowLForm"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "ParamGroup3",
+      "Name": "BrowRForm"
+    },
+    {
+      "Id": "ParamBreastPhysicsX",
+      "GroupId": "ParamGroup3",
+      "Name": "BreastPhysicsX"
+    },
+    {
+      "Id": "ParamBreastPhysicsY",
+      "GroupId": "ParamGroup3",
+      "Name": "BreastPhysicsY"
+    },
+    {
+      "Id": "ParamSkirtPhysicsA",
+      "GroupId": "ParamGroup3",
+      "Name": "SkirtPhysicsA"
+    },
+    {
+      "Id": "ParamTiePhysicsA",
+      "GroupId": "ParamGroup3",
+      "Name": "TiePhysicsA"
+    },
+    {
+      "Id": "ParamEyeShockVisible",
+      "GroupId": "ParamGroup3",
+      "Name": "EyeShockVisible"
+    },
+    {
+      "Id": "ParamEyeNormalVisible",
+      "GroupId": "ParamGroup3",
+      "Name": "EyeNormalVisible"
+    },
+    {
+      "Id": "ParamHeartEye",
+      "GroupId": "ParamGroup3",
+      "Name": "HeartEye"
+    },
+    {
+      "Id": "ParamCheek",
+      "GroupId": "ParamGroup3",
+      "Name": "Cheek"
+    },
+    {
+      "Id": "ParamTears",
+      "GroupId": "ParamGroup4",
+      "Name": "Tears"
+    },
+    {
+      "Id": "ParamHair00",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 00"
+    },
+    {
+      "Id": "ParamHair01",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 01"
+    },
+    {
+      "Id": "ParamHair02",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 02"
+    },
+    {
+      "Id": "ParamHair03",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 03"
+    },
+    {
+      "Id": "ParamHair04",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 04"
+    },
+    {
+      "Id": "ParamHair05",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 05"
+    },
+    {
+      "Id": "ParamHair06",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 06"
+    },
+    {
+      "Id": "ParamHair07",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 07"
+    },
+    {
+      "Id": "ParamHair08",
+      "GroupId": "ParamGroup4",
+      "Name": "Hair 08"
+    },
+    {
+      "Id": "ParamHair09",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 09"
+    },
+    {
+      "Id": "ParamHair10",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 10"
+    },
+    {
+      "Id": "ParamHair11",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 11"
+    },
+    {
+      "Id": "ParamHair12",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 12"
+    },
+    {
+      "Id": "ParamHair13",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 13"
+    },
+    {
+      "Id": "ParamHair14",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 14"
+    },
+    {
+      "Id": "ParamHair15",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 15"
+    },
+    {
+      "Id": "ParamHair16",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 16"
+    },
+    {
+      "Id": "ParamHair17",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 17"
+    },
+    {
+      "Id": "ParamHair18",
+      "GroupId": "ParamGroup5",
+      "Name": "Hair 18"
+    },
+    {
+      "Id": "ParamHair19",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 19"
+    },
+    {
+      "Id": "ParamHair20",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 20"
+    },
+    {
+      "Id": "ParamHair21",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 21"
+    },
+    {
+      "Id": "ParamHair22",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 22"
+    },
+    {
+      "Id": "ParamHair23",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 23"
+    },
+    {
+      "Id": "ParamHair24",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 24"
+    },
+    {
+      "Id": "ParamHair25",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 25"
+    },
+    {
+      "Id": "ParamHair26",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 26"
+    },
+    {
+      "Id": "ParamHair27",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 27"
+    },
+    {
+      "Id": "ParamHair28",
+      "GroupId": "ParamGroup6",
+      "Name": "Hair 28"
+    },
+    {
+      "Id": "ParamHair29",
+      "GroupId": "ParamGroup7",
+      "Name": "Hair 29"
+    },
+    {
+      "Id": "ParamClothing00",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 00"
+    },
+    {
+      "Id": "ParamClothing01",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 01"
+    },
+    {
+      "Id": "ParamClothing02",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 02"
+    },
+    {
+      "Id": "ParamClothing03",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 03"
+    },
+    {
+      "Id": "ParamClothing04",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 04"
+    },
+    {
+      "Id": "ParamClothing05",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 05"
+    },
+    {
+      "Id": "ParamClothing06",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 06"
+    },
+    {
+      "Id": "ParamClothing07",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 07"
+    },
+    {
+      "Id": "ParamClothing08",
+      "GroupId": "ParamGroup7",
+      "Name": "Clothing 08"
+    },
+    {
+      "Id": "ParamClothing09",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 09"
+    },
+    {
+      "Id": "ParamClothing10",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 10"
+    },
+    {
+      "Id": "ParamClothing11",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 11"
+    },
+    {
+      "Id": "ParamClothing12",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 12"
+    },
+    {
+      "Id": "ParamClothing13",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 13"
+    },
+    {
+      "Id": "ParamClothing14",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 14"
+    },
+    {
+      "Id": "ParamClothing15",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 15"
+    },
+    {
+      "Id": "ParamClothing16",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 16"
+    },
+    {
+      "Id": "ParamClothing17",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 17"
+    },
+    {
+      "Id": "ParamClothing18",
+      "GroupId": "ParamGroup8",
+      "Name": "Clothing 18"
+    },
+    {
+      "Id": "ParamClothing19",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 19"
+    },
+    {
+      "Id": "ParamClothing20",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 20"
+    },
+    {
+      "Id": "ParamClothing21",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 21"
+    },
+    {
+      "Id": "ParamClothing22",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 22"
+    },
+    {
+      "Id": "ParamClothing23",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 23"
+    },
+    {
+      "Id": "ParamClothing24",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 24"
+    },
+    {
+      "Id": "ParamClothing25",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 25"
+    },
+    {
+      "Id": "ParamClothing26",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 26"
+    },
+    {
+      "Id": "ParamClothing27",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 27"
+    },
+    {
+      "Id": "ParamClothing28",
+      "GroupId": "ParamGroup9",
+      "Name": "Clothing 28"
+    },
+    {
+      "Id": "ParamClothing29",
+      "GroupId": "ParamGroup10",
+      "Name": "Clothing 29"
+    },
+    {
+      "Id": "ParamAccessories00",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 00"
+    },
+    {
+      "Id": "ParamAccessories01",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 01"
+    },
+    {
+      "Id": "ParamAccessories02",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 02"
+    },
+    {
+      "Id": "ParamAccessories03",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 03"
+    },
+    {
+      "Id": "ParamAccessories04",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 04"
+    },
+    {
+      "Id": "ParamAccessories05",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 05"
+    },
+    {
+      "Id": "ParamAccessories06",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 06"
+    },
+    {
+      "Id": "ParamAccessories07",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 07"
+    },
+    {
+      "Id": "ParamAccessories08",
+      "GroupId": "ParamGroup10",
+      "Name": "Accessories 08"
+    },
+    {
+      "Id": "ParamAccessories09",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 09"
+    },
+    {
+      "Id": "ParamAccessories10",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 10"
+    },
+    {
+      "Id": "ParamAccessories11",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 11"
+    },
+    {
+      "Id": "ParamAccessories12",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 12"
+    },
+    {
+      "Id": "ParamAccessories13",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 13"
+    },
+    {
+      "Id": "ParamAccessories14",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 14"
+    },
+    {
+      "Id": "ParamAccessories15",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 15"
+    },
+    {
+      "Id": "ParamAccessories16",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 16"
+    },
+    {
+      "Id": "ParamAccessories17",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 17"
+    },
+    {
+      "Id": "ParamAccessories18",
+      "GroupId": "ParamGroup11",
+      "Name": "Accessories 18"
+    },
+    {
+      "Id": "ParamAccessories19",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 19"
+    },
+    {
+      "Id": "ParamAccessories20",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 20"
+    },
+    {
+      "Id": "ParamAccessories21",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 21"
+    },
+    {
+      "Id": "ParamAccessories22",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 22"
+    },
+    {
+      "Id": "ParamAccessories23",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 23"
+    },
+    {
+      "Id": "ParamAccessories24",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 24"
+    },
+    {
+      "Id": "ParamAccessories25",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 25"
+    },
+    {
+      "Id": "ParamAccessories26",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 26"
+    },
+    {
+      "Id": "ParamAccessories27",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 27"
+    },
+    {
+      "Id": "ParamAccessories28",
+      "GroupId": "ParamGroup12",
+      "Name": "Accessories 28"
+    },
+    {
+      "Id": "ParamAccessories29",
+      "GroupId": "ParamGroup13",
+      "Name": "Accessories 29"
+    },
+    {
+      "Id": "ParamEffects00",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 00"
+    },
+    {
+      "Id": "ParamEffects01",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 01"
+    },
+    {
+      "Id": "ParamEffects02",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 02"
+    },
+    {
+      "Id": "ParamEffects03",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 03"
+    },
+    {
+      "Id": "ParamEffects04",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 04"
+    },
+    {
+      "Id": "ParamEffects05",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 05"
+    },
+    {
+      "Id": "ParamEffects06",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 06"
+    },
+    {
+      "Id": "ParamEffects07",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 07"
+    },
+    {
+      "Id": "ParamEffects08",
+      "GroupId": "ParamGroup13",
+      "Name": "Effects 08"
+    },
+    {
+      "Id": "ParamEffects09",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 09"
+    },
+    {
+      "Id": "ParamEffects10",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 10"
+    },
+    {
+      "Id": "ParamEffects11",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 11"
+    },
+    {
+      "Id": "ParamEffects12",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 12"
+    },
+    {
+      "Id": "ParamEffects13",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 13"
+    },
+    {
+      "Id": "ParamEffects14",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 14"
+    },
+    {
+      "Id": "ParamEffects15",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 15"
+    },
+    {
+      "Id": "ParamEffects16",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 16"
+    },
+    {
+      "Id": "ParamEffects17",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 17"
+    },
+    {
+      "Id": "ParamEffects18",
+      "GroupId": "ParamGroup14",
+      "Name": "Effects 18"
+    },
+    {
+      "Id": "ParamEffects19",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 19"
+    },
+    {
+      "Id": "ParamEffects20",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 20"
+    },
+    {
+      "Id": "ParamEffects21",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 21"
+    },
+    {
+      "Id": "ParamEffects22",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 22"
+    },
+    {
+      "Id": "ParamEffects23",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 23"
+    },
+    {
+      "Id": "ParamEffects24",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 24"
+    },
+    {
+      "Id": "ParamEffects25",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 25"
+    },
+    {
+      "Id": "ParamEffects26",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 26"
+    },
+    {
+      "Id": "ParamEffects27",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 27"
+    },
+    {
+      "Id": "ParamEffects28",
+      "GroupId": "ParamGroup15",
+      "Name": "Effects 28"
+    },
+    {
+      "Id": "ParamEffects29",
+      "GroupId": "ParamGroup16",
+      "Name": "Effects 29"
+    },
+    {
+      "Id": "ParamAdvanced00",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 00"
+    },
+    {
+      "Id": "ParamAdvanced01",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 01"
+    },
+    {
+      "Id": "ParamAdvanced02",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 02"
+    },
+    {
+      "Id": "ParamAdvanced03",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 03"
+    },
+    {
+      "Id": "ParamAdvanced04",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 04"
+    },
+    {
+      "Id": "ParamAdvanced05",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 05"
+    },
+    {
+      "Id": "ParamAdvanced06",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 06"
+    },
+    {
+      "Id": "ParamAdvanced07",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 07"
+    },
+    {
+      "Id": "ParamAdvanced08",
+      "GroupId": "ParamGroup16",
+      "Name": "Advanced 08"
+    },
+    {
+      "Id": "ParamAdvanced09",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 09"
+    },
+    {
+      "Id": "ParamAdvanced10",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 10"
+    },
+    {
+      "Id": "ParamAdvanced11",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 11"
+    },
+    {
+      "Id": "ParamAdvanced12",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 12"
+    },
+    {
+      "Id": "ParamAdvanced13",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 13"
+    },
+    {
+      "Id": "ParamAdvanced14",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 14"
+    },
+    {
+      "Id": "ParamAdvanced15",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 15"
+    },
+    {
+      "Id": "ParamAdvanced16",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 16"
+    },
+    {
+      "Id": "ParamAdvanced17",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 17"
+    },
+    {
+      "Id": "ParamAdvanced18",
+      "GroupId": "ParamGroup17",
+      "Name": "Advanced 18"
+    },
+    {
+      "Id": "ParamAdvanced19",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 19"
+    },
+    {
+      "Id": "ParamAdvanced20",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 20"
+    },
+    {
+      "Id": "ParamAdvanced21",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 21"
+    },
+    {
+      "Id": "ParamAdvanced22",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 22"
+    },
+    {
+      "Id": "ParamAdvanced23",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 23"
+    },
+    {
+      "Id": "ParamAdvanced24",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 24"
+    },
+    {
+      "Id": "ParamAdvanced25",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 25"
+    },
+    {
+      "Id": "ParamAdvanced26",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 26"
+    },
+    {
+      "Id": "ParamAdvanced27",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 27"
+    },
+    {
+      "Id": "ParamAdvanced28",
+      "GroupId": "ParamGroup18",
+      "Name": "Advanced 28"
+    },
+    {
+      "Id": "ParamAdvanced29",
+      "GroupId": "ParamGroup19",
+      "Name": "Advanced 29"
+    },
+    {
+      "Id": "ParamMicro00",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 00"
+    },
+    {
+      "Id": "ParamMicro01",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 01"
+    },
+    {
+      "Id": "ParamMicro02",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 02"
+    },
+    {
+      "Id": "ParamMicro03",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 03"
+    },
+    {
+      "Id": "ParamMicro04",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 04"
+    },
+    {
+      "Id": "ParamMicro05",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 05"
+    },
+    {
+      "Id": "ParamMicro06",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 06"
+    },
+    {
+      "Id": "ParamMicro07",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 07"
+    },
+    {
+      "Id": "ParamMicro08",
+      "GroupId": "ParamGroup19",
+      "Name": "Micro 08"
+    },
+    {
+      "Id": "ParamMicro09",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 09"
+    },
+    {
+      "Id": "ParamMicro10",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 10"
+    },
+    {
+      "Id": "ParamMicro11",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 11"
+    },
+    {
+      "Id": "ParamMicro12",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 12"
+    },
+    {
+      "Id": "ParamMicro13",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 13"
+    },
+    {
+      "Id": "ParamMicro14",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 14"
+    },
+    {
+      "Id": "ParamMicro15",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 15"
+    },
+    {
+      "Id": "ParamMicro16",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 16"
+    },
+    {
+      "Id": "ParamMicro17",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 17"
+    },
+    {
+      "Id": "ParamMicro18",
+      "GroupId": "ParamGroup20",
+      "Name": "Micro 18"
+    },
+    {
+      "Id": "ParamMicro19",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 19"
+    },
+    {
+      "Id": "ParamMicro20",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 20"
+    },
+    {
+      "Id": "ParamMicro21",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 21"
+    },
+    {
+      "Id": "ParamMicro22",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 22"
+    },
+    {
+      "Id": "ParamMicro23",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 23"
+    },
+    {
+      "Id": "ParamMicro24",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 24"
+    },
+    {
+      "Id": "ParamMicro25",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 25"
+    },
+    {
+      "Id": "ParamMicro26",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 26"
+    },
+    {
+      "Id": "ParamMicro27",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 27"
+    },
+    {
+      "Id": "ParamMicro28",
+      "GroupId": "ParamGroup21",
+      "Name": "Micro 28"
+    },
+    {
+      "Id": "ParamMicro29",
+      "GroupId": "ParamGroup22",
+      "Name": "Micro 29"
+    },
+    {
+      "Id": "ParamDetail00",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 00"
+    },
+    {
+      "Id": "ParamDetail01",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 01"
+    },
+    {
+      "Id": "ParamDetail02",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 02"
+    },
+    {
+      "Id": "ParamDetail03",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 03"
+    },
+    {
+      "Id": "ParamDetail04",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 04"
+    },
+    {
+      "Id": "ParamDetail05",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 05"
+    },
+    {
+      "Id": "ParamDetail06",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 06"
+    },
+    {
+      "Id": "ParamDetail07",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 07"
+    },
+    {
+      "Id": "ParamDetail08",
+      "GroupId": "ParamGroup22",
+      "Name": "Detail 08"
+    },
+    {
+      "Id": "ParamDetail09",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 09"
+    },
+    {
+      "Id": "ParamDetail10",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 10"
+    },
+    {
+      "Id": "ParamDetail11",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 11"
+    },
+    {
+      "Id": "ParamDetail12",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 12"
+    },
+    {
+      "Id": "ParamDetail13",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 13"
+    },
+    {
+      "Id": "ParamDetail14",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 14"
+    },
+    {
+      "Id": "ParamDetail15",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 15"
+    },
+    {
+      "Id": "ParamDetail16",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 16"
+    },
+    {
+      "Id": "ParamDetail17",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 17"
+    },
+    {
+      "Id": "ParamDetail18",
+      "GroupId": "ParamGroup23",
+      "Name": "Detail 18"
+    },
+    {
+      "Id": "ParamDetail19",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 19"
+    },
+    {
+      "Id": "ParamDetail20",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 20"
+    },
+    {
+      "Id": "ParamDetail21",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 21"
+    },
+    {
+      "Id": "ParamDetail22",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 22"
+    },
+    {
+      "Id": "ParamDetail23",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 23"
+    },
+    {
+      "Id": "ParamDetail24",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 24"
+    },
+    {
+      "Id": "ParamDetail25",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 25"
+    },
+    {
+      "Id": "ParamDetail26",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 26"
+    },
+    {
+      "Id": "ParamDetail27",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 27"
+    },
+    {
+      "Id": "ParamDetail28",
+      "GroupId": "ParamGroup24",
+      "Name": "Detail 28"
+    },
+    {
+      "Id": "ParamDetail29",
+      "GroupId": "ParamGroup25",
+      "Name": "Detail 29"
+    },
+    {
+      "Id": "ParamEnhancement00",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 00"
+    },
+    {
+      "Id": "ParamEnhancement01",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 01"
+    },
+    {
+      "Id": "ParamEnhancement02",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 02"
+    },
+    {
+      "Id": "ParamEnhancement03",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 03"
+    },
+    {
+      "Id": "ParamEnhancement04",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 04"
+    },
+    {
+      "Id": "ParamEnhancement05",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 05"
+    },
+    {
+      "Id": "ParamEnhancement06",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 06"
+    },
+    {
+      "Id": "ParamEnhancement07",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 07"
+    },
+    {
+      "Id": "ParamEnhancement08",
+      "GroupId": "ParamGroup25",
+      "Name": "Enhancement 08"
+    },
+    {
+      "Id": "ParamEnhancement09",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 09"
+    },
+    {
+      "Id": "ParamEnhancement10",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 10"
+    },
+    {
+      "Id": "ParamEnhancement11",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 11"
+    },
+    {
+      "Id": "ParamEnhancement12",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 12"
+    },
+    {
+      "Id": "ParamEnhancement13",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 13"
+    },
+    {
+      "Id": "ParamEnhancement14",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 14"
+    },
+    {
+      "Id": "ParamEnhancement15",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 15"
+    },
+    {
+      "Id": "ParamEnhancement16",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 16"
+    },
+    {
+      "Id": "ParamEnhancement17",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 17"
+    },
+    {
+      "Id": "ParamEnhancement18",
+      "GroupId": "ParamGroup26",
+      "Name": "Enhancement 18"
+    },
+    {
+      "Id": "ParamEnhancement19",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 19"
+    },
+    {
+      "Id": "ParamEnhancement20",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 20"
+    },
+    {
+      "Id": "ParamEnhancement21",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 21"
+    },
+    {
+      "Id": "ParamEnhancement22",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 22"
+    },
+    {
+      "Id": "ParamEnhancement23",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 23"
+    },
+    {
+      "Id": "ParamEnhancement24",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 24"
+    },
+    {
+      "Id": "ParamEnhancement25",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 25"
+    },
+    {
+      "Id": "ParamEnhancement26",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 26"
+    },
+    {
+      "Id": "ParamEnhancement27",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 27"
+    },
+    {
+      "Id": "ParamEnhancement28",
+      "GroupId": "ParamGroup27",
+      "Name": "Enhancement 28"
+    },
+    {
+      "Id": "ParamEnhancement29",
+      "GroupId": "ParamGroup28",
+      "Name": "Enhancement 29"
+    },
+    {
+      "Id": "ParamCustom00",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 00"
+    },
+    {
+      "Id": "ParamCustom01",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 01"
+    },
+    {
+      "Id": "ParamCustom02",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 02"
+    },
+    {
+      "Id": "ParamCustom03",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 03"
+    },
+    {
+      "Id": "ParamCustom04",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 04"
+    },
+    {
+      "Id": "ParamCustom05",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 05"
+    },
+    {
+      "Id": "ParamCustom06",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 06"
+    },
+    {
+      "Id": "ParamCustom07",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 07"
+    },
+    {
+      "Id": "ParamCustom08",
+      "GroupId": "ParamGroup28",
+      "Name": "Custom 08"
+    },
+    {
+      "Id": "ParamCustom09",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 09"
+    },
+    {
+      "Id": "ParamCustom10",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 10"
+    },
+    {
+      "Id": "ParamCustom11",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 11"
+    },
+    {
+      "Id": "ParamCustom12",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 12"
+    },
+    {
+      "Id": "ParamCustom13",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 13"
+    },
+    {
+      "Id": "ParamCustom14",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 14"
+    },
+    {
+      "Id": "ParamCustom15",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 15"
+    },
+    {
+      "Id": "ParamCustom16",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 16"
+    },
+    {
+      "Id": "ParamCustom17",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 17"
+    },
+    {
+      "Id": "ParamCustom18",
+      "GroupId": "ParamGroup29",
+      "Name": "Custom 18"
+    },
+    {
+      "Id": "ParamCustom19",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 19"
+    },
+    {
+      "Id": "ParamCustom20",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 20"
+    },
+    {
+      "Id": "ParamCustom21",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 21"
+    },
+    {
+      "Id": "ParamCustom22",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 22"
+    },
+    {
+      "Id": "ParamCustom23",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 23"
+    },
+    {
+      "Id": "ParamCustom24",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 24"
+    },
+    {
+      "Id": "ParamCustom25",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 25"
+    },
+    {
+      "Id": "ParamCustom26",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 26"
+    },
+    {
+      "Id": "ParamCustom27",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 27"
+    },
+    {
+      "Id": "ParamCustom28",
+      "GroupId": "ParamGroup30",
+      "Name": "Custom 28"
+    }
+  ],
+  "ParameterGroups": [
+    {
+      "Id": "ParamGroup1",
+      "GroupId": "",
+      "Name": "Group 1"
+    },
+    {
+      "Id": "ParamGroup2",
+      "GroupId": "",
+      "Name": "Group 2"
+    },
+    {
+      "Id": "ParamGroup3",
+      "GroupId": "",
+      "Name": "Group 3"
+    },
+    {
+      "Id": "ParamGroup4",
+      "GroupId": "",
+      "Name": "Group 4"
+    },
+    {
+      "Id": "ParamGroup5",
+      "GroupId": "",
+      "Name": "Group 5"
+    },
+    {
+      "Id": "ParamGroup6",
+      "GroupId": "",
+      "Name": "Group 6"
+    },
+    {
+      "Id": "ParamGroup7",
+      "GroupId": "",
+      "Name": "Group 7"
+    },
+    {
+      "Id": "ParamGroup8",
+      "GroupId": "",
+      "Name": "Group 8"
+    },
+    {
+      "Id": "ParamGroup9",
+      "GroupId": "",
+      "Name": "Group 9"
+    },
+    {
+      "Id": "ParamGroup10",
+      "GroupId": "",
+      "Name": "Group 10"
+    },
+    {
+      "Id": "ParamGroup11",
+      "GroupId": "",
+      "Name": "Group 11"
+    },
+    {
+      "Id": "ParamGroup12",
+      "GroupId": "",
+      "Name": "Group 12"
+    },
+    {
+      "Id": "ParamGroup13",
+      "GroupId": "",
+      "Name": "Group 13"
+    },
+    {
+      "Id": "ParamGroup14",
+      "GroupId": "",
+      "Name": "Group 14"
+    },
+    {
+      "Id": "ParamGroup15",
+      "GroupId": "",
+      "Name": "Group 15"
+    },
+    {
+      "Id": "ParamGroup16",
+      "GroupId": "",
+      "Name": "Group 16"
+    },
+    {
+      "Id": "ParamGroup17",
+      "GroupId": "",
+      "Name": "Group 17"
+    },
+    {
+      "Id": "ParamGroup18",
+      "GroupId": "",
+      "Name": "Group 18"
+    },
+    {
+      "Id": "ParamGroup19",
+      "GroupId": "",
+      "Name": "Group 19"
+    },
+    {
+      "Id": "ParamGroup20",
+      "GroupId": "",
+      "Name": "Group 20"
+    },
+    {
+      "Id": "ParamGroup21",
+      "GroupId": "",
+      "Name": "Group 21"
+    },
+    {
+      "Id": "ParamGroup22",
+      "GroupId": "",
+      "Name": "Group 22"
+    },
+    {
+      "Id": "ParamGroup23",
+      "GroupId": "",
+      "Name": "Group 23"
+    },
+    {
+      "Id": "ParamGroup24",
+      "GroupId": "",
+      "Name": "Group 24"
+    },
+    {
+      "Id": "ParamGroup25",
+      "GroupId": "",
+      "Name": "Group 25"
+    },
+    {
+      "Id": "ParamGroup26",
+      "GroupId": "",
+      "Name": "Group 26"
+    },
+    {
+      "Id": "ParamGroup27",
+      "GroupId": "",
+      "Name": "Group 27"
+    },
+    {
+      "Id": "ParamGroup28",
+      "GroupId": "",
+      "Name": "Group 28"
+    },
+    {
+      "Id": "ParamGroup29",
+      "GroupId": "",
+      "Name": "Group 29"
+    },
+    {
+      "Id": "ParamGroup30",
+      "GroupId": "",
+      "Name": "Group 30"
+    }
+  ],
+  "Parts": [
+    {
+      "Id": "Parthead00",
+      "Name": "head_00"
+    },
+    {
+      "Id": "Parthead01",
+      "Name": "head_01"
+    },
+    {
+      "Id": "Parthead02",
+      "Name": "head_02"
+    },
+    {
+      "Id": "Parthead03",
+      "Name": "head_03"
+    },
+    {
+      "Id": "Parthead04",
+      "Name": "head_04"
+    },
+    {
+      "Id": "Parthead05",
+      "Name": "head_05"
+    },
+    {
+      "Id": "Parthead06",
+      "Name": "head_06"
+    },
+    {
+      "Id": "Parthead07",
+      "Name": "head_07"
+    },
+    {
+      "Id": "Parthead08",
+      "Name": "head_08"
+    },
+    {
+      "Id": "Parthead09",
+      "Name": "head_09"
+    },
+    {
+      "Id": "Parteyes00",
+      "Name": "eyes_00"
+    },
+    {
+      "Id": "Parteyes01",
+      "Name": "eyes_01"
+    },
+    {
+      "Id": "Parteyes02",
+      "Name": "eyes_02"
+    },
+    {
+      "Id": "Parteyes03",
+      "Name": "eyes_03"
+    },
+    {
+      "Id": "Parteyes04",
+      "Name": "eyes_04"
+    },
+    {
+      "Id": "Parteyes05",
+      "Name": "eyes_05"
+    },
+    {
+      "Id": "Parteyes06",
+      "Name": "eyes_06"
+    },
+    {
+      "Id": "Parteyes07",
+      "Name": "eyes_07"
+    },
+    {
+      "Id": "Parteyes08",
+      "Name": "eyes_08"
+    },
+    {
+      "Id": "Parteyes09",
+      "Name": "eyes_09"
+    },
+    {
+      "Id": "Partmouth00",
+      "Name": "mouth_00"
+    },
+    {
+      "Id": "Partmouth01",
+      "Name": "mouth_01"
+    },
+    {
+      "Id": "Partmouth02",
+      "Name": "mouth_02"
+    },
+    {
+      "Id": "Partmouth03",
+      "Name": "mouth_03"
+    },
+    {
+      "Id": "Partmouth04",
+      "Name": "mouth_04"
+    },
+    {
+      "Id": "Partmouth05",
+      "Name": "mouth_05"
+    },
+    {
+      "Id": "Partmouth06",
+      "Name": "mouth_06"
+    },
+    {
+      "Id": "Partmouth07",
+      "Name": "mouth_07"
+    },
+    {
+      "Id": "Partmouth08",
+      "Name": "mouth_08"
+    },
+    {
+      "Id": "Partmouth09",
+      "Name": "mouth_09"
+    },
+    {
+      "Id": "Parthair00",
+      "Name": "hair_00"
+    },
+    {
+      "Id": "Parthair01",
+      "Name": "hair_01"
+    },
+    {
+      "Id": "Parthair02",
+      "Name": "hair_02"
+    },
+    {
+      "Id": "Parthair03",
+      "Name": "hair_03"
+    },
+    {
+      "Id": "Parthair04",
+      "Name": "hair_04"
+    },
+    {
+      "Id": "Parthair05",
+      "Name": "hair_05"
+    },
+    {
+      "Id": "Parthair06",
+      "Name": "hair_06"
+    },
+    {
+      "Id": "Parthair07",
+      "Name": "hair_07"
+    },
+    {
+      "Id": "Parthair08",
+      "Name": "hair_08"
+    },
+    {
+      "Id": "Parthair09",
+      "Name": "hair_09"
+    },
+    {
+      "Id": "Partbody00",
+      "Name": "body_00"
+    },
+    {
+      "Id": "Partbody01",
+      "Name": "body_01"
+    },
+    {
+      "Id": "Partbody02",
+      "Name": "body_02"
+    },
+    {
+      "Id": "Partbody03",
+      "Name": "body_03"
+    },
+    {
+      "Id": "Partbody04",
+      "Name": "body_04"
+    },
+    {
+      "Id": "Partbody05",
+      "Name": "body_05"
+    },
+    {
+      "Id": "Partbody06",
+      "Name": "body_06"
+    },
+    {
+      "Id": "Partbody07",
+      "Name": "body_07"
+    },
+    {
+      "Id": "Partbody08",
+      "Name": "body_08"
+    },
+    {
+      "Id": "Partbody09",
+      "Name": "body_09"
+    },
+    {
+      "Id": "Partclothing00",
+      "Name": "clothing_00"
+    },
+    {
+      "Id": "Partclothing01",
+      "Name": "clothing_01"
+    },
+    {
+      "Id": "Partclothing02",
+      "Name": "clothing_02"
+    },
+    {
+      "Id": "Partclothing03",
+      "Name": "clothing_03"
+    },
+    {
+      "Id": "Partclothing04",
+      "Name": "clothing_04"
+    },
+    {
+      "Id": "Partclothing05",
+      "Name": "clothing_05"
+    },
+    {
+      "Id": "Partclothing06",
+      "Name": "clothing_06"
+    },
+    {
+      "Id": "Partclothing07",
+      "Name": "clothing_07"
+    },
+    {
+      "Id": "Partclothing08",
+      "Name": "clothing_08"
+    },
+    {
+      "Id": "Partclothing09",
+      "Name": "clothing_09"
+    },
+    {
+      "Id": "Partaccessories00",
+      "Name": "accessories_00"
+    },
+    {
+      "Id": "Partaccessories01",
+      "Name": "accessories_01"
+    },
+    {
+      "Id": "Partaccessories02",
+      "Name": "accessories_02"
+    },
+    {
+      "Id": "Partaccessories03",
+      "Name": "accessories_03"
+    },
+    {
+      "Id": "Partaccessories04",
+      "Name": "accessories_04"
+    },
+    {
+      "Id": "Partaccessories05",
+      "Name": "accessories_05"
+    },
+    {
+      "Id": "Partaccessories06",
+      "Name": "accessories_06"
+    },
+    {
+      "Id": "Partaccessories07",
+      "Name": "accessories_07"
+    },
+    {
+      "Id": "Partaccessories08",
+      "Name": "accessories_08"
+    },
+    {
+      "Id": "Partaccessories09",
+      "Name": "accessories_09"
+    },
+    {
+      "Id": "Parteffects00",
+      "Name": "effects_00"
+    },
+    {
+      "Id": "Parteffects01",
+      "Name": "effects_01"
+    },
+    {
+      "Id": "Parteffects02",
+      "Name": "effects_02"
+    },
+    {
+      "Id": "Parteffects03",
+      "Name": "effects_03"
+    },
+    {
+      "Id": "Parteffects04",
+      "Name": "effects_04"
+    },
+    {
+      "Id": "Parteffects05",
+      "Name": "effects_05"
+    },
+    {
+      "Id": "Parteffects06",
+      "Name": "effects_06"
+    },
+    {
+      "Id": "Parteffects07",
+      "Name": "effects_07"
+    },
+    {
+      "Id": "Parteffects08",
+      "Name": "effects_08"
+    },
+    {
+      "Id": "Parteffects09",
+      "Name": "effects_09"
+    },
+    {
+      "Id": "Partphysics00",
+      "Name": "physics_00"
+    },
+    {
+      "Id": "Partphysics01",
+      "Name": "physics_01"
+    },
+    {
+      "Id": "Partphysics02",
+      "Name": "physics_02"
+    },
+    {
+      "Id": "Partphysics03",
+      "Name": "physics_03"
+    },
+    {
+      "Id": "Partphysics04",
+      "Name": "physics_04"
+    },
+    {
+      "Id": "Partphysics05",
+      "Name": "physics_05"
+    },
+    {
+      "Id": "Partphysics06",
+      "Name": "physics_06"
+    },
+    {
+      "Id": "Partphysics07",
+      "Name": "physics_07"
+    },
+    {
+      "Id": "Partphysics08",
+      "Name": "physics_08"
+    },
+    {
+      "Id": "Partphysics09",
+      "Name": "physics_09"
+    },
+    {
+      "Id": "Partadvanced00",
+      "Name": "advanced_00"
+    },
+    {
+      "Id": "Partadvanced01",
+      "Name": "advanced_01"
+    },
+    {
+      "Id": "Partadvanced02",
+      "Name": "advanced_02"
+    },
+    {
+      "Id": "Partadvanced03",
+      "Name": "advanced_03"
+    },
+    {
+      "Id": "Partadvanced04",
+      "Name": "advanced_04"
+    },
+    {
+      "Id": "Partadvanced05",
+      "Name": "advanced_05"
+    },
+    {
+      "Id": "Partadvanced06",
+      "Name": "advanced_06"
+    },
+    {
+      "Id": "Partadvanced07",
+      "Name": "advanced_07"
+    },
+    {
+      "Id": "Partadvanced08",
+      "Name": "advanced_08"
+    },
+    {
+      "Id": "Partadvanced09",
+      "Name": "advanced_09"
+    }
+  ],
+  "CombinedParameters": [
+    [
+      "ParamAngleX",
+      "ParamAngleY"
+    ],
+    [
+      "ParamMouthOpen",
+      "ParamMouthForm"
+    ],
+    [
+      "ParamEyeBallX",
+      "ParamEyeBallY"
+    ],
+    [
+      "ParamBrowLY",
+      "ParamBrowRY"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"character_info\": {\n    \"gender\": \"女性\",\n    \"age_group\": \"若年\",\n    \"hair_color\": [\n      250,\n      206,\n      219\n    ],\n    \"eye_color\": [\n      87,\n      133,\n      231\n    ],\n    \"skin_color\": [\n      251,\n      235,\n      230\n    ],\n    \"clothes_colors\": [\n      [\n        49,\n        55,\n        75\n      ],\n      [\n        255,\n        255,\n        255\n      ]\n    ]\n  },\n  \"face_parts\": {\n    \"left_eye\": {\n      \"x\": 265,\n      \"y\": 154,\n      \"width\": 34,\n      \"height\": 15\n    },\n    \"right_eye\": {\n      \"x\": 339,\n      \"y\": 153,\n      \"width\": 34,\n      \"height\": 15\n    },\n    \"nose\": {\n      \"x\": 306,\n      \"y\": 204,\n      \"width\": 11,\n      \"height\": 15\n    },\n    \"mouth\": {\n      \"x\": 289,\n      \"y\": 234,\n      \"width\": 71,\n      \"height\": 14\n    },\n    \"left_eyebrow\": {\n      \"x\": 261,\n      \"y\": 130,\n      \"width\": 42,\n      \"height\": 12\n    },\n    \"right_eyebrow\": {\n      \"x\": 337,\n      \"y\": 129,\n      \"width\": 43,\n      \"height\": 11\n    },\n    \"left_cheek\": {\n      \"x\": 254,\n      \"y\": 193,\n      \"width\": 41,\n      \"height\": 36\n    },\n    \"right_cheek\": {\n      \"x\": 365,\n      \"y\": 192,\n      \"width\": 40,\n      \"height\": 35\n    },\n    \"left_ear\": {\n      \"x\": 221,\n      \"y\": 158,\n      \"width\": 17,\n      \"height\": 35\n    },\n    \"right_ear\": {\n      \"x\": 416,\n      \"y\": 158,\n      \"width\": 17,\n      \"height\": 36\n    },\n    \"forehead\": {\n      \"x\": 243,\n      \"y\": 83,\n      \"width\": 177,\n      \"height\": 61\n    },\n    \"neck\": {\n      \"x\": 275,\n      \"y\": 247,\n      \"width\": 95,\n      \"height\": 57\n    }\n  },\n  \"body_parts\": {\n    \"left_shoulder\": {\n      \"x\": 203,\n      \"y\": 298,\n      \"width\": 44,\n      \"height\": 27\n    },\n    \"right_shoulder\": {\n      \"x\": 395,\n      \"y\": 299,\n      \"width\": 44,\n      \"height\": 26\n    },\n    \"left_arm\": {\n      \"x\": 183,\n      \"y\": 333,\n      \"width\": 57,\n      \"height\": 117\n    },\n    \"right_arm\": {\n      \"x\": 408,\n      \"y\": 334,\n      \"width\": 60,\n      \"height\": 118\n    },\n    \"left_hand\": {\n      \"x\": 141,\n      \"y\": 413,\n      \"width\": 31,\n      \"height\": 40\n    },\n    \"right_hand\": {\n      \"x\": 475,\n      \"y\": 416,\n      \"width\": 30,\n      \"height\": 37\n    },\n    \"chest\": {\n      \"x\": 252,\n      \"y\": 304,\n      \"width\": 144,\n      \"height\": 66\n    },\n    \"waist\": {\n      \"x\": 237,\n      \"y\": 408,\n      \"width\": 165,\n      \"height\": 55\n    },\n    \"left_leg\": {\n      \"x\": 244,\n      \"y\": 577,\n      \"width\": 63,\n      \"height\": 212\n    },\n    \"right_leg\": {\n      \"x\": 337,\n      \"y\": 577,\n      \"width\": 62,\n      \"height\": 213\n    },\n    \"left_foot\": {\n      \"x\": 258,\n      \"y\": 789,\n      \"width\": 45,\n      \"height\": 32\n    },\n    \"right_foot\": {\n      \"x\": 346,\n      \"y\": 789,\n      \"width\": 45,\n      \"height\": 31\n    }\n  },\n  \"hair_info\": {\n    \"style\": \"ボブ\",\n    \"length\": \"短い\",\n    \"color\": [\n      250,\n      206,\n      219\n    ],\n    \"texture\": \"ふんわり\"\n  }\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.2199013725589403
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 2917,
+    "candidatesTokenCount": 1409,
+    "totalTokenCount": 4326,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1111
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1806
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 1409
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash-exp",
+  "responseId": "Goa1aJvWMYmUmtkP-7CE-Ag"
+}

@@ -1,0 +1,39 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"character\": \"anime girl\",\n  \"hair_color\": \"pink\",\n  \"dress_color\": \"dark blue\"\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11629066969219007
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1962,
+    "candidatesTokenCount": 38,
+    "totalTokenCount": 2000,
+    "promptTokensDetails": [
+      {
+        "modality": "IMAGE",
+        "tokenCount": 1806
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 156
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 38
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash-exp",
+  "responseId": "I4a1aNCxNKSO6dkPhde4uQw"
+}

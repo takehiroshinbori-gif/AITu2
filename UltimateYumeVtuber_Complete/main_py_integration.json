@@ -1,0 +1,35 @@
+{
+  "vts_parameters": {
+    "VTS_PARAM_MOUTH": "MouthOpen",
+    "VTS_PARAM_EYE_L_OPEN": "EyeOpenLeft",
+    "VTS_PARAM_EYE_R_OPEN": "EyeOpenRight",
+    "VTS_PARAM_EYE_X": "EyeRightX",
+    "VTS_PARAM_EYE_Y": "EyeRightY",
+    "VTS_PARAM_HEAD_X": "FaceAngleX",
+    "VTS_PARAM_HEAD_Y": "FaceAngleY",
+    "VTS_PARAM_HEAD_Z": "FaceAngleZ",
+    "VTS_PARAM_MOUTH_SMILE": "MouthSmile",
+    "VTS_PARAM_BROWS": "Brows",
+    "VTS_PARAM_CHEEK": "CheekPuff",
+    "VTS_PARAM_HAND_WAVE_LEFT": "HandWaveLeft",
+    "VTS_PARAM_HAND_WAVE_RIGHT": "HandWaveRight",
+    "VTS_PARAM_JUMP": "Jump",
+    "VTS_PARAM_VICTORY_POSE": "VictoryPose",
+    "VTS_PARAM_CUTE_POSE": "CutePose"
+  },
+  "motion_triggers": {
+    "wave": [
+      "HandWaveLeft",
+      "HandWaveRight"
+    ],
+    "jump": [
+      "Jump"
+    ],
+    "victory": [
+      "VictoryPose"
+    ],
+    "cute": [
+      "CutePose"
+    ]
+  }
+}

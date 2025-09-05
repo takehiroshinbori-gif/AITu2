@@ -1,0 +1,8 @@
+{
+  "rtmp_url": "rtmp://localhost:1935/live",
+  "stream_key": "test_stream",
+  "platform": "local",
+  "resolution": "1920x1080",
+  "fps": 30,
+  "bitrate": "2500k"
+}
